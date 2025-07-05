@@ -3,8 +3,8 @@
 ## ✅ Task-1: Launch Google in Browser
 Open Google using Selenium and print a success message.
 
-## ✅ Task-2: DemoQA Login Automation Using CSV
-Read username/password from a CSV file and log into https://demoqa.com/login.
+## ✅ Task-2: Page Navigation - Back, Forward, Refresh
+Visit Google and Wikipedia, navigate back/forward, refresh, and print current URL.
 
 ## ✅ Task-3: Practice Test Login
 Automate login at https://practicetestautomation.com/practice-test-login/, validate success.
@@ -36,8 +36,10 @@ Fill first name, last name, email, gender, number, and DOB at https://demoqa.com
 ## ✅ Task-12: Hover Menu Navigation
 Hover on nested menus on https://demoqa.com/menu using ActionChains.
 
-## ✅ Task-13: Page Navigation - Back, Forward, Refresh
-Visit Google and Wikipedia, navigate back/forward, refresh, and print current URL.
+## ## ✅ Task-13: DemoQA Login Automation Using CSV
+Read username/password from a CSV file and log into https://demoqa.com/login.
+
+
 
 ## Final Report:
 ![Screenshot 2025-07-04 154258](https://github.com/user-attachments/assets/f2b78a82-453d-4709-a892-763182aacdeb)
